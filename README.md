@@ -1,3 +1,3 @@
 # PyTyaga
-Sber project
+Sber project  
 В процессе
